@@ -1,0 +1,9 @@
+leftnav:
+- identifier: b330e2cb-a8a3-4b16-bade-05011b1c8e13
+  name: Video Test
+  url: /pages/test-a-video
+  weight: 10
+- identifier: 4c7ac6b3-61d2-4f22-9aba-0f1690876108
+  name: Table Test
+  url: /pages/table-test
+  weight: 20

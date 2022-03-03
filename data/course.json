@@ -1,0 +1,38 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Science",
+      "Physics",
+      "Classical Mechanics"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "c115f319-2adc-acbe-b7a3-c29d3bf1d75c"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "4f9f6c60-61df-46c8-b6b2-37234fa6db10",
+    "website": "daniel-my-course-authoring-demo-1027"
+  },
+  "course_title": "{your name} Test Authoring",
+  "course_description": "Test.",
+  "department_numbers": [
+    "7"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "D.101",
+  "course_image_thumbnail": {
+    "content": "4f9f6c60-61df-46c8-b6b2-37234fa6db10",
+    "website": "daniel-my-course-authoring-demo-1027"
+  },
+  "learning_resource_types": [
+    "Problem Sets with Solutions",
+    "Lecture Notes",
+    "Lecture Videos",
+    "Recitation Videos"
+  ],
+  "site_uid": "3d20a6a0-3221-4eb9-9fed-1055fd2631ab"
+}
